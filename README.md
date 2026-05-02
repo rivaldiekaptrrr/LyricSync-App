@@ -1,4 +1,4 @@
-# Dokumentasi Teknis ESP32-S3 Lirik Player + Flutter Apps
+# Dokumentasi Teknis ESP32-S3 Lirik Player + Flutter App
 
 ## Gambaran Umum Proyek
 
